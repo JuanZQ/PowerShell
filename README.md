@@ -10,3 +10,6 @@
 
 ## CodeTwo Free Tools
 https://www.codetwo.com/downloads/freeware/
+
+## Setting an auto reply for a distribution group
+https://www.codetwo.com/admins-blog/setting-an-autoreply-for-a-distribution-group/
