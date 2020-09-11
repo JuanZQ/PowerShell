@@ -1,5 +1,4 @@
-# PowerShell
-# Very useful powershell links
+# PowerShell and other very useful links
 
 ## Azure Active Directory: Automating Guest User Management
 - https://devblogs.microsoft.com/premier-developer/azure-active-directory-automating-guest-user-management/
@@ -8,3 +7,6 @@
 
 ## You do not have the permission to send the message on behalf of the specified user
 - https://www.admin-enclave.com/en/articles/exchange/292-resolved-you-do-not-have-the-permission-to-send-the-message-on-behalf-of-the-specified-user.html
+
+## CodeTwo Free Tools
+https://www.codetwo.com/downloads/freeware/
